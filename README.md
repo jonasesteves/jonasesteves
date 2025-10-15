@@ -144,7 +144,7 @@ I also worked for a period as a **freelancer**, where I interacted directly with
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
 
 <img
-    title="Jira"
+    title="Jetbrains Tools"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" />

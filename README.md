@@ -6,8 +6,8 @@ I have been working as a **Software Engineer** and **web application developer**
 
 I also worked for a period as a **freelancer**, where I interacted directly with clients, performing important roles such as requirements gathering, system design, database design, backend and frontend development, and final project delivery.
 
-<a href="https://www.linkedin.com/in/seu-usuario/" target="_blank" style="text-decoration:none;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25" style="vertical-align:top;"/> <span style="font-size:36px;">LinkedIn</span>
+<a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/> LinkedIn
 </a>
 
 ## Technologies
@@ -293,3 +293,18 @@ Main technologies used:
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
 
+
+<table cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="middle">
+      <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="22" height="22" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td valign="middle" style="padding-left:1px;">
+      <a href="https://www.linkedin.com/in/seu-usuario/" target="_blank" style="text-decoration:none; color:inherit;">
+        LinkedIn
+      </a>
+    </td>
+  </tr>
+</table>

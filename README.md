@@ -180,6 +180,8 @@ As a software development enthusiast, I've created small projects to study new t
 
 Project currently under development.
 
+This project focused on Microservices Architecture and it consists in a Delivery Food System.
+
 ### ⭐️ Posts System ([Available here](https://github.com/jonasesteves/posts-meta))
 
 A distributed system composed of two microservices that communicate asynchronously using RabbitMQ. The system will be responsible for receiving text posts, processing the content of these texts in the background, and storing the processing result.

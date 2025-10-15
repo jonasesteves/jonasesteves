@@ -2,6 +2,8 @@
 
 I have been working as a **Software Engineer** and **web application developer** since 2013, with a focus on backend development using **Java** and **Python**, and some experience with **JavaScript**.
 
+**I am currently specializing in Microservices Architeture, Domain Driven Design, Messaging and Cloud Computing, using Java as my primary programming language.**
+
 I also worked for a period as a **freelancer**, where I interacted directly with clients, performing important roles such as requirements gathering, system design, database design, backend and frontend development, and final project delivery.
 
 
@@ -151,8 +153,6 @@ The icons above represent the main technologies I work with.
 Although I have always worked as a full-stack developer and hold a **postgraduate degree in Web Development**, my main focus is on **backend development**, as that’s the area I truly enjoy working in.
 
 As a software development enthusiast, I love studying and learning new technologies.
-
-**I am currently specializing in Microservices Architeture, Domain Driven Design, Messaging and Cloud Computing, using Java as my primary programming language.**
 
 
 ## Projects

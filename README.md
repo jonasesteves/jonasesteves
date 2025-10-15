@@ -152,7 +152,7 @@ Throughout my career, I have developed several applications - some personal proj
 As a software development enthusiast, I've created small projects to study new technologies and validate my knowledge. These are open-source and you can find the description and source code here on Github. Titles marked with a star are the ones I consider most relevants.
 
 
-### ⭐️ AlgaShop ([Available here]())
+### ⭐️ AlgaShop ([Available here](https://github.com/jonasesteves/algashop-meta))
 
 Project currently under development.
 

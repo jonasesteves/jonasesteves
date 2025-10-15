@@ -6,9 +6,8 @@ I have been working as a **Software Engineer** and **web application developer**
 
 I also worked for a period as a **freelancer**, where I interacted directly with clients, performing important roles such as requirements gathering, system design, database design, backend and frontend development, and final project delivery.
 
-<a href="https://www.linkedin.com/in/seu-usuario/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/> LinkedIn
-</a>
+[<img src="./linkedin.svg" width="120" alt="LinkedIn"/>](https://www.linkedin.com/in/jonasestevess/)
+
 
 ## Technologies
 

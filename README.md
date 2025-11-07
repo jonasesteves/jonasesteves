@@ -162,11 +162,11 @@ As a software development enthusiast, I love studying and learning new technolog
 Throughout my career, I have developed several applications - some personal projects and others focused on study and learning.
 
 
-### Panorama Jonas Esteves (personal project) ([Available here](https://jonasesteves.com))
+### Panorama Jonas Esteves (personal project) ([https://jonasesteves.com](https://jonasesteves.com))
 
 **Panorama Jonas Esteves** is a web-based system designed to searching and presenting global financial market asset quotes in real time with Web Scraping technique, subscription system, integration with payment API, automation of tasks with Telegram API, search and filtering of news related to the market on various sites and sources with subsequent presentation on the platform using websockets, simultaneous translation, economic indicators, open contracts.
 
-### RendaFiix (personal project) ([Available here](https://rendafiix.com.br))
+### RendaFiix (personal project) ([https://rendafiix.com.br](https://rendafiix.com.br))
 
 **RendaFiix** is a web-based system designed to manage investment portfolios in Real Estate Funds on the Brazilian Stock Exchange (BOVESPA). Users register their transactions and income received in this system to view graphs showing the results of their investments. They can also build or rebalance their investment portfolios.
 
@@ -176,13 +176,13 @@ Throughout my career, I have developed several applications - some personal proj
 As a software development enthusiast, I've created small projects to study new technologies and validate my knowledge. These are open-source and you can find the description and source code here on Github. Titles marked with a star are the ones I consider most relevants.
 
 
-### ⭐️ AlgaShop ([Available here](https://github.com/jonasesteves/algashop-meta))
+### ⭐️ AlgaShop ([Source code available here](https://github.com/jonasesteves/algashop-meta))
 
 Project currently under development.
 
 This project focused on Microservices Architecture and it consists in a Delivery Food System.
 
-### ⭐️ Posts System ([Available here](https://github.com/jonasesteves/posts-meta))
+### ⭐️ Posts System ([Source code available here](https://github.com/jonasesteves/posts-meta))
 
 A distributed system composed of two microservices that communicate asynchronously using RabbitMQ. The system will be responsible for receiving text posts, processing the content of these texts in the background, and storing the processing result.
 
@@ -212,7 +212,7 @@ Main technologies used:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 
 
-### Comments System ([Available here](https://github.com/jonasesteves/comments-system-meta))
+### Comments System ([Source code available here](https://github.com/jonasesteves/comments-system-meta))
 
 A system composed of two microservices that communicate synchronously via HTTP/REST using Spring RestClient.
 
@@ -234,7 +234,7 @@ Main technologies used:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 
 
-### AlgaSensors ([Available here](https://github.com/jonasesteves/ems-algasensors-meta))
+### AlgaSensors ([Source code available here](https://github.com/jonasesteves/ems-algasensors-meta))
 
 A feature to manage temperature alerts for sensors. Each sensor can have configurable temperature limits (maximum and minimum), which will be used to generate alerts.
 These configurations must be stored and retrieved from a database.
@@ -265,7 +265,7 @@ Main technologies used:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 
 
-### FicticiusClean ([Available here](https://github.com/jonasesteves/ficticiusclean))
+### FicticiusClean ([Source code available here](https://github.com/jonasesteves/ficticiusclean))
 
 A simple REST API to evaluate the most eficient vehicle available for delivery.
 

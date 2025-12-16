@@ -265,9 +265,9 @@ Main technologies used:
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rabbitmq/rabbitmq-original.svg" />
 
 
-### FicticiusClean ([Source code available here](https://github.com/jonasesteves/ficticiusclean))
+### TransferScheduling ([Source code available here](https://github.com/jonasesteves/transfer-scheduling))
 
-A simple REST API to evaluate the most eficient vehicle available for delivery.
+Recruitment process test. A simple application that exposes REST APIs for scheduling bank transfers, applying specific fee calculation rules according to the transfer amount and the scheduled date.
 
 Main technologies used:
 - Java
@@ -276,7 +276,38 @@ Main technologies used:
 
 <img
     align="left"
-    title="RabbitMQ"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
+<img
+    align="left"
+    title="Spring Framework"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+
+<img
+    title="Docker"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+
+
+
+### FicticiusClean ([Source code available here](https://github.com/jonasesteves/ficticiusclean))
+
+Recruitment process test. A simple REST API to evaluate the most eficient vehicle available for delivery.
+
+Main technologies used:
+- Java
+- Spring Boot
+- Docker
+
+<img
+    align="left"
+    title="Java"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
